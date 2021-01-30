@@ -15,13 +15,13 @@ Input file_name.csv            |  Output Google_Attendance.xlsx
 ### 1. Cloning the repository on local:
 
    - Go to the repository and download the code to your local computer.
-    ![image info](./images/image1.png)
+    <kbd><img src= "/images/image1.png"></img></kbd>
 
 
    - Extract the zip file.
    - You will see files following repository files.
 
-   ![image info](./images/image2.png)
+   <kbd><img src= "/images/image2.png"></img></kbd>
 
    
 
@@ -32,7 +32,7 @@ Input file_name.csv            |  Output Google_Attendance.xlsx
    - You will see ***Google_Attendance.xlsx*** file, this is the output file where you will have list of students and among them students present in Google meet will be marked as "***present***" in preceding column.
 
 
-![image info](./images/image3.png)
+<kbd><img src= "/images/image3.png"></img></kbd>
 
    - so, edit this spreadsheet and add your list instead of mine.
 
@@ -57,15 +57,15 @@ Now, we have gathered all pieces together, let's run the code.
    - run this command: <code>python csv-scrapper.py</code>
    - It will then ask you to enter name of csv file in this format ***file_name.csv***
 
-   ![image info](./images/image4.png)
+   <kbd><img src= "/images/image4.png"></img></kbd>
 
    - Hit Enter and that's it. you will get success messege.
 
-   ![image info](./images/image5.png)
+   <kbd><img src= "/images/image5.png"></img></kbd>
 
    - Now check Google_Attendance.xlsx with updated data.
 
-   ![image info](./images/image6.png)
+   <kbd><img src= "/images/image6.png"></img></kbd>
 
 ### Author:
 
