@@ -69,4 +69,5 @@ Now, we have gathered all pieces together, let's run the code.
 
 ### Author:
 
-[Shantanu Nighot] (https://magbanum.live)
+[Shantanu Nighot](https://magbanum.live)
+
