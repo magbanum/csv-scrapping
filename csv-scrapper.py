@@ -7,7 +7,7 @@ from openpyxl.utils import column_index_from_string
 if __name__ == '__main__':
 
     # read specific columns of csv file using Pandas 
-    df = pd.read_csv(input("Enter csv file name"), usecols = ['Attendance for:','eds']) #column_1: 'Attendance for:'   column_2: 'eds'
+    df = pd.read_csv(input("Enter csv file name "), usecols = ['Attendance for:','eds']) #column_1: 'Attendance for:'   column_2: 'eds'
     names=[]
     for i in range(2, 132):
         #print(repr(df['eds'][i]))
